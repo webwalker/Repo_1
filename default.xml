@@ -2,5 +2,5 @@
 <manifest>
     <remote name="origin" fetch="https://github.com/webwalker/Repo_1.git" />
     <default remote="origin" revision="master" />
-    <project name="Repo_2" path="Repo_2" />
+    <project name="https://github.com/webwalker/Repo_2.git" path="Repo_2" />
 </manifest>
